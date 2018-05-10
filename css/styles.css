@@ -1,0 +1,69 @@
+body {
+    background-color: #bce8f1;
+}
+
+.col-xs-12 {
+    height: 3em;
+    font-size : 30px;
+    padding : 5px;
+    margin: 10px auto;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align : center;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #feffef;
+    border : black solid 10px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size : 50px;
+    border-radius: 10px;
+    text-align : center;
+    padding: 0px auto;
+}
+
+.newParagraphe1 {
+    background-color: #FFA0D5;
+}
+
+.newParagraphe2 {
+    background-color: #F95D47;
+}
+
+.newParagraphe3 {
+    background-color: #fffcb1;
+}
+
+.lastPhrase1 {
+    font-family: 'Monoton', cursive;
+    background-color : #BC178C;
+    border-radius : 20px ;
+    font-size : 80px;
+    padding : 10px;
+    height: 2em;
+}
+
+.lastPhrase2 {
+    font-family: 'Monoton', cursive;
+    background-color : #FBC52F;
+    border-radius : 20px ;
+    font-size : 80px;
+    padding : 10px;
+    height: 2em;
+}
+
+
+.lastJumbotron {
+    font-family: 'sans-serif', cursive;
+    color : darkred;
+    background : url('original.png') no-repeat;
+    background-size: 100%;
+    text-align : center;
+}
+
+.lastBody {
+    background: url('rodjendan.jpeg') no-repeat;
+    background-size: 100%;
+
+}
